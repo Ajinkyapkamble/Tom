@@ -31,7 +31,7 @@
       </configuration>
     </plugin>
   </plugins>
-  <finalName>Docker</2finalName>
+  <finalName>Docker</finalName>
 </build>
 
 </project>
