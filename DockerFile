@@ -1,4 +1,0 @@
-FROM openjdk:11
-EXPOSE 8080
-ADD target/Docker.war Docker.war
-ENTRYPOINT ["java","/Docker.war"]
